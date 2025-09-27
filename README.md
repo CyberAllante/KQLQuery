@@ -69,7 +69,7 @@ AuditLogs
 
 ## 📸 Screenshot
 
-![KQL Query Practice Screenshot](./dashboard.png)
+![KQL Query Practice Screenshot](./dashbaord.png)
 
 *(Screenshot shows results for SigninLogs and AuditLogs queries in Log Analytics Workspace.)*
 
